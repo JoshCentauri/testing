@@ -1,0 +1,1 @@
+Archivo para commit inicial del curso de Git
