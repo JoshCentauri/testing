@@ -1,3 +1,5 @@
+
+
 En eta linea se deja constancia del commit inicial del curso de Git
 Esta linea representa un cambio para el segundo commit.
 Agregando contenido para un tercer commit.
