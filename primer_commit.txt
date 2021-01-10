@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 En eta linea se deja constancia del commit inicial del curso de Git
-=======
-Este es el titulo, fue incluido inicialmente en la rama "titulo"
-
-Archivo para commit inicial del curso de Git
->>>>>>> titulo
 Esta linea representa un cambio para el segundo commit.
 Agregando contenido para un tercer commit.
 
